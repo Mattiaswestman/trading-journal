@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Development\\Trading Journal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC4822F-76A3-4B90-A5AB-499F87C8B82B}|Trading Journal\\Trading Journal.csproj|c:\\development\\trading journal\\trading journal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC4822F-76A3-4B90-A5AB-499F87C8B82B}|Trading Journal\\Trading Journal.csproj|solutionrelative:trading journal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Development\\Trading Journal\\Trading Journal\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Trading Journal\\MauiProgram.cs",
+              "ToolTip": "C:\\Development\\Trading Journal\\Trading Journal\\MauiProgram.cs",
+              "RelativeToolTip": "Trading Journal\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T16:53:53.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
