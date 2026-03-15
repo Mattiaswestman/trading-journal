@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Trading_Journal
+namespace TradingJournal
 {
     public class Program
     {

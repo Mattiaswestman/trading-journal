@@ -1,4 +1,4 @@
-﻿namespace Trading_Journal
+﻿namespace TradingJournal
 {
     public partial class App : Application
     {

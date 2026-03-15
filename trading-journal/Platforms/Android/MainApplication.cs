@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Trading_Journal
+namespace TradingJournal
 {
     [Application]
     public class MainApplication : MauiApplication

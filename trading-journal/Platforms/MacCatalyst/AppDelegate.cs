@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Trading_Journal
+namespace TradingJournal
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

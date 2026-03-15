@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace Trading_Journal
+namespace TradingJournal
 {
     public static class MauiProgram
     {

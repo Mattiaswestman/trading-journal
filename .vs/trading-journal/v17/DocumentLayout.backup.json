@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\trading-journal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDAE6FB-0E81-5700-3539-878D1DA57F68}|trading-journal\\trading-journal.csproj|c:\\development\\trading-journal\\trading-journal\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDAE6FB-0E81-5700-3539-878D1DA57F68}|trading-journal\\trading-journal.csproj|solutionrelative:trading-journal\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDAE6FB-0E81-5700-3539-878D1DA57F68}|trading-journal\\trading-journal.csproj|c:\\development\\trading-journal\\trading-journal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDAE6FB-0E81-5700-3539-878D1DA57F68}|trading-journal\\trading-journal.csproj|solutionrelative:trading-journal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Development\\trading-journal\\trading-journal\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "trading-journal\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Development\\trading-journal\\trading-journal\\MainPage.xaml.cs",
+              "RelativeToolTip": "trading-journal\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:33:40.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Development\\trading-journal\\trading-journal\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "trading-journal\\MauiProgram.cs",
+              "ToolTip": "C:\\Development\\trading-journal\\trading-journal\\MauiProgram.cs",
+              "RelativeToolTip": "trading-journal\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:33:24.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
